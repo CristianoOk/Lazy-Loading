@@ -1,0 +1,4 @@
+ACÁ TRABAJAMOS <<LAZY LOADING>>.
+
+Para el estilo, instalé en la terminal "npm i sass". SASS significa Syntactically Awesome Stylesheets (Hojas de estilo sintácticamente geniales).
+Es un preprocesador de CSS, lo que significa que amplía las capacidades de CSS normal, permitiéndote escribir estilos de una forma más poderosa, limpia y reutilizable.
